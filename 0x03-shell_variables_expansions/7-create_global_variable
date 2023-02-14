@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BESY="School"
+export BEST="School"
